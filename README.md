@@ -7,6 +7,7 @@ Some of the scripts used to create the solution and the API architecture.
 - dotnet new --help
 - dotnet new sln
 - dotnet new webapi -o API
+
 ls - to view the list of files present in the folder
 
 - dotnet sln add API
